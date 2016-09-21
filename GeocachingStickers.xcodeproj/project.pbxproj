@@ -256,7 +256,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = NRQ2A5FE8M;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = org.mavetju.GeocachingStickers.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = org.mavetju.geocachingstickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -268,7 +268,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = NRQ2A5FE8M;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = org.mavetju.GeocachingStickers.StickerPackExtension;
+				PRODUCT_BUNDLE_IDENTIFIER = org.mavetju.geocachingstickers.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -280,7 +280,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = NRQ2A5FE8M;
 				INFOPLIST_FILE = GeocachingStickers/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = org.mavetju.GeocachingStickers;
+				PRODUCT_BUNDLE_IDENTIFIER = org.mavetju.geocachingstickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -292,7 +292,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				DEVELOPMENT_TEAM = NRQ2A5FE8M;
 				INFOPLIST_FILE = GeocachingStickers/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = org.mavetju.GeocachingStickers;
+				PRODUCT_BUNDLE_IDENTIFIER = org.mavetju.geocachingstickers;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -317,6 +317,7 @@
 				E8FA762A1D90C6540081D896 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E8FA762C1D90C6540081D896 /* Build configuration list for PBXNativeTarget "GeocachingStickers" */ = {
 			isa = XCConfigurationList;
@@ -325,6 +326,7 @@
 				E8FA762E1D90C6540081D896 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

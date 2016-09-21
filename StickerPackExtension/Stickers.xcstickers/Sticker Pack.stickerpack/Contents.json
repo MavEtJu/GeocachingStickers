@@ -1,55 +1,28 @@
 {
   "stickers" : [
     {
-      "filename" : "logo_geosportz2016.sticker"
+      "filename" : "GCA logo.sticker"
     },
     {
-      "filename" : "logo_gca_50.sticker"
+      "filename" : "GeosportZ2016.sticker"
     },
     {
-      "filename" : "logo_pathtag.sticker"
+      "filename" : "Gegnome2ElectricBoogaloo.sticker"
     },
     {
-      "filename" : "logo_winter_is_coming.sticker"
+      "filename" : "WinterIsComing.sticker"
     },
     {
-      "filename" : "logo_gca_burkewills_camel.sticker"
+      "filename" : "WeepingAngel.sticker"
     },
     {
-      "filename" : "logo_weepingangel.sticker"
+      "filename" : "GeGnomeProject.sticker"
     },
     {
-      "filename" : "logo_weepingangel-1.sticker"
+      "filename" : "LeapFrog.sticker"
     },
     {
-      "filename" : "logo_winter_is_coming-1.sticker"
-    },
-    {
-      "filename" : "logo_nightcache.sticker"
-    },
-    {
-      "filename" : "logo_pathtag-1.sticker"
-    },
-    {
-      "filename" : "logo_leapfrog.sticker"
-    },
-    {
-      "filename" : "logo_nightcache-1.sticker"
-    },
-    {
-      "filename" : "logo_geosportz2016-1.sticker"
-    },
-    {
-      "filename" : "logo_gegnome_ii.sticker"
-    },
-    {
-      "filename" : "logo_gca_tlc.sticker"
-    },
-    {
-      "filename" : "logo_gca_burkewills_camel-1.sticker"
-    },
-    {
-      "filename" : "logo_gca_100.sticker"
+      "filename" : "Bingo.sticker"
     }
   ],
   "info" : {
