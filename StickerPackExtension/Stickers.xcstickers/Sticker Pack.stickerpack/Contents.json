@@ -4,6 +4,21 @@
       "filename" : "GCA logo.sticker"
     },
     {
+      "filename" : "Clan_Cerberus.sticker"
+    },
+    {
+      "filename" : "Clan_Griffin.sticker"
+    },
+    {
+      "filename" : "Clan_Minotaur.sticker"
+    },
+    {
+      "filename" : "Clan_Phoenix.sticker"
+    },
+    {
+      "filename" : "Summer_Scavenger_Series.sticker"
+    },
+    {
       "filename" : "GeosportZ2016.sticker"
     },
     {
@@ -25,70 +40,22 @@
       "filename" : "Bingo.sticker"
     },
     {
-      "filename" : "cache - event - 30x30@3x.sticker"
+      "filename" : "BlazeTrophy.sticker"
     },
     {
-      "filename" : "cache - night - 30x30@3x.sticker"
+      "filename" : "GoldTrophy.sticker"
     },
     {
-      "filename" : "cache - unknown - 30x30@3x.sticker"
+      "filename" : "SilverTrophy.sticker"
     },
     {
-      "filename" : "cache - maze - 30x30@3x.sticker"
+      "filename" : "MissingThrophy.sticker"
     },
     {
-      "filename" : "cache - moveable - 30x30@3x.sticker"
+      "filename" : "LimitedTrophy.sticker"
     },
     {
-      "filename" : "cache - reverse - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - beacon - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - history - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - benchmark - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - whereigo - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - waymark - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - webcam - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - podcast - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - mystery - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - virtual - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - giga - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - multi - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - traditional - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - letterbox - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - groundspeak hq - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - burke-wills - 30x30@3x.sticker"
-    },
-    {
-      "filename" : "cache - trigpoint - 30x30@3x.sticker"
+      "filename" : "BronzeTrophy.sticker"
     }
   ],
   "info" : {
